@@ -1,15 +1,22 @@
 ---
 title: Calculus FRQ
+layout: home
 ---
-    
-We're creating the gold standard resource for students and teachers to prepare for free response questions the AP Calculus APCalcAB and APCalcBC exam.
+
+## AP Calculus AB / BC FRQ Index and Resources
+- CB Original: direct link to the College Board's FRQs
+- Word Blank: word friendly version of the exam questions for practice
+- PDF Blank: PDF version of the exam questions for practice
+- Scoring Guidelines: direct link to College Board's Scoring Guidelines
+- Handwritten Solutions: Handwritten solutions for each exam question
+- YouTube Playlist: YouTube walkthrough of how to solve each questions
 
 | Year | Exam       | College Board Original                                                                             | Word Blank | PDF Blank | Scoring Guidelines | Handwritten Solutions | YouTube Walkthrough |
 |------|------------|----------------------------------------------------------------------------------------------------|------------|-----------|--------------------|-----------------------|---------------------|
 | 2024 | APCalcAB   | [Questions](https://apcentral.collegeboard.org/media/pdf/ap24-frq-calculus-ab.pdf)                 | .docx      | .pdf      | Scoring Guidelines | Solutions             | Walkthrough         |
 | 2024 | APCalcBC   | [Questions](https://apcentral.collegeboard.org/media/pdf/ap24-frq-calculus-bc.pdf)                 | .docx      | .pdf      | Scoring Guidelines | Solutions             | Walkthrough         |
-| 2023 | APCalcAB   | [Questions](https://apcentral.collegeboard.org/media/pdf/ap23-frq-calculus-ab.pdf)                 | .docx      | .pdf      | Scoring Guidelines | Solutions             | Walkthrough         |
-| 2023 | APCalcBC   | [Questions](https://apcentral.collegeboard.org/media/pdf/ap23-frq-calculus-bc.pdf)                 | .docx      | .pdf      | Scoring Guidelines | Solutions             | Walkthrough         |
+| 2023 | APCalcAB   | [Questions](https://apcentral.collegeboard.org/media/pdf/ap23-frq-calculus-ab.pdf)                 | [.docx]({{ site.url }}/download/2023_apcalculusab_frq.docx)      | [.pdf]({{ site.url }}/download/2023_apcalculusab_frq.pdf)       | Scoring Guidelines | Solutions             | Walkthrough         |
+| 2023 | APCalcBC   | [Questions](https://apcentral.collegeboard.org/media/pdf/ap23-frq-calculus-bc.pdf)                 | [.docx]({{ site.url }}/download/2023_apcalculusbc_frq.docx)      | [.pdf]({{ site.url }}/download/2023_apcalculusbc_frq.pdf)     | Scoring Guidelines | Solutions             | Walkthrough         |
 | 2022 | APCalcAB   | [Questions](https://apcentral.collegeboard.org/media/pdf/ap22-frq-calculus-ab.pdf)                 | .docx      | .pdf      | Scoring Guidelines | Solutions             | Walkthrough         |
 | 2022 | APCalcBC   | [Questions](https://apcentral.collegeboard.org/media/pdf/ap22-frq-calculus-bc.pdf)                 | .docx      | .pdf      | Scoring Guidelines | Solutions             | Walkthrough         |
 | 2021 | APCalcAB   | [Questions](https://apcentral.collegeboard.org/media/pdf/ap21-frq-calculus-ab.pdf)                 | .docx      | .pdf      | Scoring Guidelines | Solutions             | Walkthrough         |
