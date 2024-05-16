@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-We're creating the gold standard resource for students and teachers to prepare for free response questions the AP Calculus APCalcAB and APCalcBC exam.
+We're creating the gold standard resource for students and teachers to prepare for free response questions the AP Calculus AB and BC exams.
